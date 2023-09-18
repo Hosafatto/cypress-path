@@ -12,8 +12,8 @@
 2. Install Cypress. (Run `npm install cypress --save-dev`)
 3. That's it!
 
-<div style="text-align: right">
-    <a href='#cypress-path-course'>Top</a>
+<div align="center">
+    <a href="#cypress-path-course">Topo</a>
 </div>
 
 # How to Run Cypress
