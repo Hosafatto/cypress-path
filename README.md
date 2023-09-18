@@ -7,16 +7,24 @@
 - [Notes](#notes)
 - [Demo Sites for Test](#demo-sites-for-test)
 
-# How to Install [Top](#cypress-path-course)
+# How to Install
 1. Create `package.json`. (Run `npm init -y`)
 2. Install Cypress. (Run `npm install cypress --save-dev`)
 3. That's it!
 
-# How to Run Cypress [Top](#cypress-path-course)
+[Top](#cypress-path-course)
+
+# How to Run Cypress
 1. Run `npx cypress open`
 
-# Notes [Top](#cypress-path-course)
+[Top](#cypress-path-course)
+
+# Notes
 - Cypress is installed with several examples, for this repository those were deleted to avoid confussion or distraction for was intended in this demo / tutorial.
 
-# Demo Sites for Test [Top](#cypress-path-course)
+[Top](#cypress-path-course)
+
+# Demo Sites for Test
 - [ToDoMVC](https://todomvc.com)
+
+[Top](#cypress-path-course)
