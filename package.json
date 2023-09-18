@@ -1,0 +1,23 @@
+{
+  "name": "cypress-path",
+  "version": "1.0.0",
+  "description": "Cypress Path Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hosafatto/cypress-path.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hosafatto/cypress-path/issues"
+  },
+  "homepage": "https://github.com/Hosafatto/cypress-path#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
