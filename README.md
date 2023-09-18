@@ -1,6 +1,6 @@
 ## Cypress Path Course
 
-# -Table of contens-
+# <ins>Table of contens</ins>
 
 # How to Install
 1. Create `package.json`. Run `npm init -y`
