@@ -1,6 +1,6 @@
 ## Cypress Path Course
 
-# ~_Table of contens_~
+# -Table of contens-
 
 # How to Install
 1. Create `package.json`. Run `npm init -y`
@@ -14,4 +14,4 @@
 - Cypress is installed with several examples, for this repository those were deleted to avoid confussion or distraction for was intended in this demo / tutorial.
 
 # Demo Sites for Test
-- [ToDoMVC] (https://todomvc.com)
+- [ToDoMVC](https://todomvc.com)
