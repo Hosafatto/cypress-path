@@ -1,17 +1,18 @@
 /// <reference types="cypress"/> 
 
-describe('Introduction to Cypress', () => 
-{
-    it('Should navigate to the TodoMVC App', () => {
+describe('Introduction to Cypress', () => {
+    beforeEach( () => {
         cy.visit('http://todomvc-app-for-testing.surge.sh')
         cy.get('.new-todo').type("Clean room{enter}")
+    })
+
+    it('Should navigate to the TodoMVC App', () => {
+        
         cy.get('.toggle').click()
         cy.contains('Clear').click()
     })
 
     it('Should do some validations', () => {
-        cy.visit('http://todomvc-app-for-testing.surge.sh')
-        cy.get('.new-todo').type("Clean room{enter}")
         cy.get('label').should('have.text', 'Clean room')
         cy.get('.toggle').should('not.be.checked')
         cy.get('.toggle').click()
@@ -19,5 +20,4 @@ describe('Introduction to Cypress', () =>
         cy.contains('Clear').click()
         cy.get('.todo-list').should('not.have.descendants', 'li')
     })
-}
-)
+})

@@ -17,7 +17,13 @@
 </div>
 
 ## How to Run Cypress
+-- GUI
 1. Run `npx cypress open`
+
+-- Headless
+1. Run `npx cypress run`
+    1. 1. Run `npx cypress run --spec {file}` to run a specific test
+
 <hr>
 <div align="right">
     <a href="#cypress-path-course">Top ▲</a>

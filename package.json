@@ -4,7 +4,8 @@
   "description": "Cypress Path Course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypres": "cypress open",
+    "test": "cypress run"
   },
   "repository": {
     "type": "git",
