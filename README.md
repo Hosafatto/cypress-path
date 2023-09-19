@@ -23,8 +23,17 @@
     <a href="#cypress-path-course">Top ▲</a>
 </div>
 
+## Write your first test
+1. Create a folder and name it `e2e`.
+2. Create a file ´*.cy.js´ in e2e folder. (Example: firstTest.cy.js)
+3. Write your tests!!!
+<hr>
+<div align="right">
+    <a href="#cypress-path-course">Top ▲</a>
+</div>
+
 ## Notes
-- Cypress is installed with several examples, for this repository those were deleted to avoid confussion or distraction for was intended in this demo / tutorial.
+- Cypress is installed with several examples, for this repository these were deleted to avoid confussion or distraction for was intended in this demo / tutorial.
 <hr>
 <div align="right">
     <a href="#cypress-path-course">Top ▲</a>
