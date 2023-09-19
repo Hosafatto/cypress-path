@@ -13,26 +13,26 @@
 3. That's it!
 <hr>
 <div align="right">
-    <a href="#cypress-path-course">Top</a>
+    <a href="#cypress-path-course">Top ▲</a>
 </div>
 
 ## How to Run Cypress
 1. Run `npx cypress open`
 <hr>
 <div align="right">
-    <a href="#cypress-path-course">Top</a>
+    <a href="#cypress-path-course">▲<br/>Top</a>
 </div>
 
 ## Notes
 - Cypress is installed with several examples, for this repository those were deleted to avoid confussion or distraction for was intended in this demo / tutorial.
 <hr>
 <div align="right">
-    <a href="#cypress-path-course">Top</a>
+    <a href="#cypress-path-course">▲<br/>Top</a>
 </div>
 
 ## Demo Sites for Test
 - [ToDoMVC](https://todomvc.com)
 <hr>
 <div align="right">
-    <a href="#cypress-path-course">Top</a>
+    <a href="#cypress-path-course">Top<br/>▲</a>
 </div>
