@@ -4,7 +4,7 @@
   "description": "Cypress Path Course",
   "main": "index.js",
   "scripts": {
-    "cypres": "cypress open",
+    "cypress": "cypress open",
     "test": "cypress run"
   },
   "repository": {
