@@ -11,22 +11,28 @@
 1. Create `package.json`. (Run `npm init -y`)
 2. Install Cypress. (Run `npm install cypress --save-dev`)
 3. That's it!
-
-<div align="center">
+<hr>
+<div align="right">
     <a href="#cypress-path-course">Topo</a>
 </div>
 
 # How to Run Cypress
 1. Run `npx cypress open`
-
-[Top](#cypress-path-course)
+<hr>
+<div align="right">
+    <a href="#cypress-path-course">Topo</a>
+</div>
 
 # Notes
 - Cypress is installed with several examples, for this repository those were deleted to avoid confussion or distraction for was intended in this demo / tutorial.
-
-[Top](#cypress-path-course)
+<hr>
+<div align="right">
+    <a href="#cypress-path-course">Topo</a>
+</div>
 
 # Demo Sites for Test
 - [ToDoMVC](https://todomvc.com)
-
-[Top](#cypress-path-course)
+<hr>
+<div align="right">
+    <a href="#cypress-path-course">Topo</a>
+</div>
